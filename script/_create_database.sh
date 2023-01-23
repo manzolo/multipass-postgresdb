@@ -3,7 +3,7 @@
 source $(dirname $0)/__functions.sh
 
 msg_warn "Create database..."
-#sleep 30
+sleep 30
 
 CREATE_DB_CMD="create database $DB_NAME;"
 PSQL_CMD="psql -c '$CREATE_DB_CMD'"
