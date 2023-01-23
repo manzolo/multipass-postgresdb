@@ -1,4 +1,4 @@
-# Multipass postgress db VM
+# Multipass postgres db VM
 This project help to create an instance of postgres db (with pgadmin) in a multipass vm
 ## Install VM
 ### Set parameters:
@@ -24,3 +24,5 @@ nano env
 ![immagine](https://user-images.githubusercontent.com/7722346/214156987-ebbef8ab-28d8-4ae9-a6a7-8d4e74791ff3.png)
 
 ![immagine](https://user-images.githubusercontent.com/7722346/214157183-44e6624c-551a-40e2-97c7-e9471387fb98.png)
+
+![immagine](https://user-images.githubusercontent.com/7722346/214161461-49ce7324-1935-4920-ab2c-23dfc1018146.png)
