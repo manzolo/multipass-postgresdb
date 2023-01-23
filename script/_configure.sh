@@ -41,7 +41,7 @@ sudo tee /etc/update-motd.d/99-manzolo > /dev/null <<-EOF
 #!/bin/bash
 echo ""
 echo ""
-echo "$(tput setaf 1)------------------- MANZOLO PPOSTGRES MANAGER ---------------------------$(tput sgr0)"
+echo "$(tput setaf 1)------------------- MANZOLO POSTGRES MANAGER ---------------------------$(tput sgr0)"
 echo ""
 echo "$(tput setaf 3)#Postres shell:$(tput sgr0)"
 echo ""
